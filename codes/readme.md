@@ -1,3 +1,9 @@
+## Intro
+It's a computer vision project, to track and then replay the pool game balls movements. Tech:
+- Python3
+- OpenCV
+- Computer Vision knowledge
+
 ## Running Environment
 python 3.4+ 
 OpenCV 3.1+
@@ -34,3 +40,6 @@ command line:
 ~~~
 python3 run.py
 ~~~
+
+## Demo
+[https://www.youtube.com/watch?v=59PP81YF9_g](https://www.youtube.com/watch?v=59PP81YF9_g)
